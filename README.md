@@ -14,29 +14,25 @@ This project is a **Java-based Martyer Management System**. It uses **AVL Trees*
 ## 📁 Project Structure
 
 Martyer-Management-System-Phase2/
-│
 ├─ src/
-│   ├─ Main.java
-│   ├─ StartClass.java
-│   ├─ MartyesInfo.java
-│   ├─ SummeryScreen.java
-│   ├─ Location.java
-│   ├─ Node.java
-│   ├─ LinkedList.java
-│   ├─ DoubleNode.java
-│   ├─ DoubleLinkedList.java
-│   ├─ StackList.java
-│   ├─ QueueList.java
-│   ├─ DateStack.java
-│   └─ other classes...
-│
+│  ├─ Main.java
+│  ├─ StartClass.java
+│  ├─ MartyesInfo.java
+│  ├─ SummeryScreen.java
+│  ├─ Location.java
+│  ├─ Node.java
+│  ├─ LinkedList.java
+│  ├─ DoubleNode.java
+│  ├─ DoubleLinkedList.java
+│  ├─ StackList.java
+│  ├─ QueueList.java
+│  ├─ DateStack.java
+│  └─ other classes...
 ├─ images/
-│   ├─ main.png
-│   └─ data.png
-│
+│  ├─ main.png
+│  └─ data.png
 ├─ data/
-│   └─ btselem.txt
-│
+│  └─ btselem.txt
 ├─ README.md
 └─ .gitignore
 
