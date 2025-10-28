@@ -13,6 +13,7 @@ This project is a **Java-based Martyer Management System**. It uses **AVL Trees*
 
 ## 📁 Project Structure
 
+```
 Martyer-Management-System-Phase2/
 ├─ src/
 │  ├─ Main.java
@@ -35,6 +36,9 @@ Martyer-Management-System-Phase2/
 │  └─ btselem.txt
 ├─ README.md
 └─ .gitignore
+
+````
+
 
 
 ---
