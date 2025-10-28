@@ -30,15 +30,16 @@ Martyer-Management-System-Phase2/
 │   ├─ DateStack.java
 │   └─ other classes...
 │
-├
-│─ main.png
-│─ data.png
+├─ images/
+│   ├─ main.png
+│   └─ data.png
 │
-├
-│─ btselem.txt
+├─ data/
+│   └─ btselem.txt
 │
 ├─ README.md
 └─ .gitignore
+
 
 ---
 
@@ -67,11 +68,12 @@ Martyer-Management-System-Phase2/
 
 1. **Main Screen / Dashboard**
    - Overview of locations, navigation buttons, and data summary.  
-    ![Martyes Info Table](images/martyes_info.png)
-    
+          ![Main Locations Table](images/locations_table.png)
+
 2. **Data Entry / Martyer Table**
    - Editable table showing martyer name, age, date of death, and gender.
-      ![Main Locations Table](images/locations_table.png)
+         ![Martyes Info Table](images/martyes_info.png)
+
    
 
 3. **Summary Screen** – statistics (gender count, average age, max death date) and age frequency table  
